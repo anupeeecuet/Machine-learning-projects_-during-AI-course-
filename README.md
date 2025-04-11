@@ -1,1 +1,1 @@
-# Machine-learning-projects_-during-AI-course-
+# Machine-learning-coding_-during-AI-course-
