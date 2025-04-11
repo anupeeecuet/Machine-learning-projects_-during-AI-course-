@@ -1,1 +1,1 @@
-# AI-course-Thories
+ITBI AI-course-"AI & ML with Python"
