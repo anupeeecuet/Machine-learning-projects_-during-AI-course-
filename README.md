@@ -1,1 +1,1 @@
-# Machine-learning-coding_-during-AI-course-
+# AI-course-Thories
